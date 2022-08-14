@@ -1,0 +1,16 @@
+Port: 8000
+{
+  "prediction": [
+    20.35373177134412
+  ]
+}
+
+(.devops) ubuntu@ip-172-31-57-136:~/DevOps_Microservices/project-ml-microservice-kubernetes/DevOps_Microservices/project-ml-microservice-kubernetes$ ./run_kubernetes.sh
+Error from server (AlreadyExists): pods "nick-microproject" already exists
+NAME                READY   STATUS    RESTARTS   AGE
+nick-microproject   1/1     Running   0          48s
+Forwarding from 127.0.0.1:8000 -> 80
+Forwarding from [::1]:8000 -> 80
+Handling connection for 8000
+Handling connection for 8000
+Handling connection for 8000
