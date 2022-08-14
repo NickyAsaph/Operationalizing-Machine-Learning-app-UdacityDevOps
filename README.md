@@ -1,4 +1,4 @@
-<include a CircleCI status badge, here>
+[![CircleCI](https://dl.circleci.com/status-badge/img/gh/NickyAsaph/Operationalizing-Machine-Learning-app-UdacityDevOps/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/NickyAsaph/Operationalizing-Machine-Learning-app-UdacityDevOps/tree/main)
 
 ## Project Overview
 
@@ -22,6 +22,8 @@ You can find a detailed [project rubric, here](https://review.udacity.com/#!/rub
 **The final implementation of the project will showcase your abilities to operationalize production microservices.**
 
 ---
+## Clone the project
+$ https://github.com/NickyAsaph/Operationalizing-Machine-Learning-app-UdacityDevOps.git
 
 ## Setup the Environment
 
